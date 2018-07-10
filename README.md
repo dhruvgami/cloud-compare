@@ -5,11 +5,17 @@ This project's goal is to make information about the major cloud providers avail
 
 | Service Type | AWS | Google Cloud | Microsoft Azure |
 |:-------------|:---:|:------------:|:---------------:|
-| Compute | Elastic Cloud Compute (EC2) |   |   |
+| Compute (Virtual Servers) | Amazon Elastic Cloud Compute (EC2) |   |   |
+| Compute (Managed Container Service) | Amazon Elastic Container Service (ECS) |   |   |
+| Compute (Managed Kubernetes Service) | Amazon Elastic Container Service for Kubernetes (EKS) |   |   |
+| Compute (Container Registry) | Amazon Elastic Container Registry (ECR) |   |   |
+| Compute (Serverless Containers) | AWS Fargate |   |   |
+| Compute (Function as a Service) | AWS Lambda |     |     |
+| Compute (Batch Jobs) | AWS Batch | | |
+| Compute (Managed Web Apps) | AWS Elastic Beanstalk | | |
 | Block Storage |    |     |     |
 | Blob Storage |    |     |     |
 | Managed Relational Database |    |     |     |
 | Managed NoSQL Database |    |     |     |
 | Identity and Access Management |    |     |     |
 | Monitoring and Analytics |    |     |     |
-| Function as a Service |    |     |     |
