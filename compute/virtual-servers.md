@@ -1,4 +1,4 @@
-[<-- Back to compute](../README.md)
+[<-- Back to compute](README.md)
 
 ## Virtual Servers ##
 
